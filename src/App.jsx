@@ -1,0 +1,12 @@
+import './App.css'
+
+function App() {
+  return (
+    <div className="container">
+      <h1>Hola Mundo</h1>
+      <p>Bienvenido a CitasReact</p>
+    </div>
+  )
+}
+
+export default App
